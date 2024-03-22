@@ -1,8 +1,8 @@
 # Edge Delivery Services - Summit 2024
 
 ## Environments
-- Preview: https://main--site-30--s24l430.hlx.page/
-- Live: https://main--site-30--s24l430.hlx.live/
+- Preview: https://main--site-30--s24onboading.hlx.page/
+- Live: https://main--site-30--s24onboading.hlx.live/
 - Custom Domain: https://site-30.playground.name (Available during the lab)
 
 # Description
@@ -64,7 +64,7 @@ Before you begin, ensure you have the [AEM Sidekick Chrome extension](https://ch
 WKND_URL=https://main--wknd--<YOUR-GITHUB-USERNAME-OR-ORG>.hlx.live npm run generate-traffic
 
 # For example, using the WKND Demo repository, and running 1000 iterations:
-WKND_URL=https://main--site-30--s24l430.hlx.live ITERATIONS=1000 npm run generate-traffic
+WKND_URL=https://main--site-30--s24onboading.hlx.live ITERATIONS=1000 npm run generate-traffic
 ```
 
 ### Slack Bot
